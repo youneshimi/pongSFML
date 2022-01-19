@@ -19,3 +19,4 @@ Après l'installation en extrait le fichier zip
 
 ## Configuration de SFML sur Mon projet 
  
+https://github.com/youneshimi/pongSFML/blob/main/SFML%20(1).gif
