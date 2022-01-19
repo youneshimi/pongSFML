@@ -21,4 +21,3 @@ Après l'installation en extrait le fichier zip
  
 https://github.com/youneshimi/pongSFML/blob/main/SFML%20(1).gif
 
-<iframe src="https://giphy.com/embed/am5Vl37gEWBjycrvKK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/am5Vl37gEWBjycrvKK">via GIPHY</a></p>
