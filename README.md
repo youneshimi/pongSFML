@@ -53,3 +53,24 @@ Bibliothèque `SFML` pour gérer la partie graphique et la fenêtre :
 ```ts
 #include <SFML/Graphics.hpp>
 ```
+de façon de pouvoir utiliser les fonctions `SFML` son besoin de taper toujours `Sf :` en utilise : 
+```ts
+using namespace sf;
+```
+
+La déclaration des `cinq button` que je gerre dans se projet : 
+```ts
+struct Button { bool left, right, up, down, escape; };
+```
+Propriété de classe : 
+```ts
+public:
+	
+	Input();
+	
+	Button GetButton(void) const;
+	void InputHandler(Event event, RenderWindow& window);
+
+private:
+	Button button;
+```	
